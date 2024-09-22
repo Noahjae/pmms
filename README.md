@@ -1,1 +1,1 @@
-drag and drop all files in local folder in your local folder and make sure it is ensured in your server.cfg
+drag and drop all files in local folder in your server resources and make sure it is ensured in your server.cfg
